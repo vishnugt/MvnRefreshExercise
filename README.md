@@ -1,4 +1,4 @@
-# GitMvnRefreshExercise
+# MvnRefresh
 
 - Please clone the repo to your system, and try the following using maven:
 	1. Download dependencies 
